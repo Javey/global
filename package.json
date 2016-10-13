@@ -21,7 +21,7 @@
     "individual": false
   },
   "dependencies": {
-    "min-document": "^2.19.0",
+    "min-document": "git://github.com/Javey/min-document.git#master",
     "process": "~0.5.1"
   },
   "devDependencies": {
